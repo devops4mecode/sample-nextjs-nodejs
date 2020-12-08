@@ -1,1 +1,1 @@
-## NextJS + NodeJS + AWS EKS
+## Sample a NextJS + NodeJS App
