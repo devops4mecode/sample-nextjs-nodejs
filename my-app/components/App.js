@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import '../pages/node_modules/bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import { Header } from './Header'
 import { Users } from './Users'
 import { DisplayBoard } from './DisplayBoard'
